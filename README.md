@@ -6,7 +6,8 @@ Color-Correction is a web application designed to enhance the visibility of imag
 Learn more about the project: [Color-Correction Website](https://image-correction-for-color-blindness.mailchimpsites.com/)
 
 ## Authors
-- [Jolinejo](https://github.com/Jolinejo)
+- [Mariam Ibrahim](https://github.com/Jolinejo)
+- [Noor Ashraf](https://github.com/NoorAshraff)
 
 ## Installation
 
