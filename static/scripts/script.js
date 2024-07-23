@@ -18,7 +18,7 @@ function uploadImage(){
 
   const formData = new FormData();
   formData.append("image", file);
-  url = 'http://127.0.0.1:5001/upload/' + fired_button
+  url = '/upload/' + fired_button
   fetch(url, {
       method: 'POST',
       body: formData
