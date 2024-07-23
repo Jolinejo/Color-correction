@@ -22,7 +22,7 @@ def enhance(src, typ):
 
 
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = 'uploads'
+app.config['UPLOAD_FOLDER'] = '/tmp'
 
 
 @app.route('/upload/<typ>', methods=['POST'])
