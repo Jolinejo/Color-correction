@@ -6,8 +6,11 @@ Color-Correction is a web application designed to enhance the visibility of imag
 Learn more about the project: [Color-Correction Website](https://image-correction-for-color-blindness.mailchimpsites.com/)
 
 ## Authors
+- [Vivianne Emad](https://github.com/ViviannEmad)
 - [Mariam Ibrahim](https://github.com/Jolinejo)
 - [Noor Ashraf](https://github.com/NoorAshraff)
+- [Yara Magdy](https://github.com/Yaraamaggdy)
+- [Yara Osama](https://github.com/Yarausama)
 
 ## Installation
 
@@ -24,17 +27,23 @@ Learn more about the project: [Color-Correction Website](https://image-correctio
    ```bash
    cd Color-Correction
    ```
+   
+3. **Install dependencies using pip:**
+   Execute the following script to run the application:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-3. **Run the Application:**
+4. **Run the Application:**
    Execute the following script to run the application:
    ```bash
    python3 -m app
    ```
 
-4. **Open the Application:**
-   Open `index.html` located in the `static` folder using your preferred web browser.
+5. **Open the Application:**
+   Open a web browser and go to `http://localhost:5000` to access the web app.
 
-5. **Upload Your Image:**
+6. **Upload Your Image:**
    Upload the desired image using the provided interface on the website.
 
 Now you are ready to experience the enhanced visibility of images tailored for individuals with deutan color deficiency.
