@@ -37,6 +37,10 @@ def upload_image(typ):
         encoded_string = base64.b64encode(file.read())
         return {"image": encoded_string.decode('utf-8')}
 
+@app.route('/')
+def index():
+    return render_template('index.html')
+
 
 cors = CORS(app, resources={r"/upload/*": {"origins": "*"}})
 if __name__ == "__main__":
