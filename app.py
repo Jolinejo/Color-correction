@@ -30,7 +30,7 @@ def perona_malik(im):
         return im
     
 
-    im2 = anisodiff(im, 15, 0.15, 0.15)
+    im2 = anisodiff(im, 5, 0.15, 0.15)
     return im2
 
 
