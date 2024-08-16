@@ -41,7 +41,7 @@ Learn more about the project: [Color-Correction Website](https://image-correctio
    ```
 
 5. **Open the Application:**
-   Open a web browser and go to `http://localhost:5000` to access the web app.
+   Open a web browser and go to `http://localhost:5001` to access the web app.
 
 6. **Upload Your Image:**
    Upload the desired image using the provided interface on the website.
